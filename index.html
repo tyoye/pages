@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>l0op.site</title>
+    <style>
+        body {
+            background-color: white;
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        main {
+            text-align: center;
+            flex: 1; /* 让main区域占据剩余空间，从而将footer推到底部 */
+            display: flex;
+            flex-direction: column;
+            justify-content: center; /* 内容垂直居中 */
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 0.5em;
+        }
+
+        p {
+            font-size: 1.2em;
+            color: #666;
+        }
+
+        footer {
+            text-align: center;
+            color: #999;
+            font-size: 0.75em; /* 更小的字号 */
+            padding: 0.5em 0; /* 上下内边距 */
+            width: 100%;
+        }
+
+        /* 使页脚内容在一行显示 */
+        footer p {
+            display: inline; /* 设置为行内元素 */
+            margin: 0 0.5em; /* 左右外边距 */
+        }
+        /* 响应式 */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>欢迎</h1>
+        <p>你好，但其实我还没想好这里要放啥</p>
+    </main>
+
+    <footer>
+      <p>备案号：还没备案</p>
+      <p>联系方式：loop@l0op.site</p>
+
+    </footer>
+</body>
+</html>
