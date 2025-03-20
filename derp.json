@@ -42,20 +42,6 @@
             "RegionID": 1314,
             "RegionName": "Beijing"
         },
-        "1526": {
-            "Nodes": [
-                {
-                    "DERPPort": 1443,
-                    "IPv4": "124.71.239.1",
-                    "InsecureForTests": true,
-                    "Name": "1526-124.71.239.1",
-                    "RegionID": 1526
-                }
-            ],
-            "RegionCode": "other626",
-            "RegionID": 1526,
-            "RegionName": "Guangzhou"
-        },
         "1537": {
             "Nodes": [
                 {
