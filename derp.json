@@ -70,20 +70,6 @@
             "RegionID": 1537,
             "RegionName": "Beijing"
         },
-        "1595": {
-            "Nodes": [
-                {
-                    "DERPPort": 5566,
-                    "IPv4": "43.143.249.8",
-                    "InsecureForTests": true,
-                    "Name": "1595-43.143.249.8",
-                    "RegionID": 1595
-                }
-            ],
-            "RegionCode": "other695",
-            "RegionID": 1595,
-            "RegionName": "Beijing"
-        },
         "1387": {
             "Nodes": [
                 {
