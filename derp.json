@@ -13,6 +13,2176 @@
             "RegionCode": "other414",
             "RegionID": 1314,
             "RegionName": "Beijing"
+        },
+        "1824": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "62.234.39.195",
+                    "InsecureForTests": true,
+                    "Name": "1824-62.234.39.195",
+                    "RegionID": 1824
+                }
+            ],
+            "RegionCode": "other924",
+            "RegionID": 1824,
+            "RegionName": "Beijing"
+        },
+        "1537": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "152.136.120.203",
+                    "InsecureForTests": true,
+                    "Name": "1537-152.136.120.203",
+                    "RegionID": 1537
+                }
+            ],
+            "RegionCode": "other637",
+            "RegionID": 1537,
+            "RegionName": "Beijing"
+        },
+        "1325": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "221.219.99.100",
+                    "InsecureForTests": true,
+                    "Name": "1325-221.219.99.100",
+                    "RegionID": 1325
+                }
+            ],
+            "RegionCode": "other425",
+            "RegionID": 1325,
+            "RegionName": "Beijing"
+        },
+        "1119": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "59.110.150.224",
+                    "InsecureForTests": true,
+                    "Name": "1119-59.110.150.224",
+                    "RegionID": 1119
+                }
+            ],
+            "RegionCode": "other219",
+            "RegionID": 1119,
+            "RegionName": "Beijing"
+        },
+        "1419": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "39.105.30.60",
+                    "InsecureForTests": true,
+                    "Name": "1419-39.105.30.60",
+                    "RegionID": 1419
+                }
+            ],
+            "RegionCode": "other519",
+            "RegionID": 1419,
+            "RegionName": "Hangzhou"
+        },
+        "1019": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "47.94.138.128",
+                    "InsecureForTests": true,
+                    "Name": "1019-47.94.138.128",
+                    "RegionID": 1019
+                }
+            ],
+            "RegionCode": "other119",
+            "RegionID": 1019,
+            "RegionName": "Hangzhou"
+        },
+        "1482": {
+            "Nodes": [
+                {
+                    "DERPPort": 10065,
+                    "IPv4": "82.157.190.177",
+                    "InsecureForTests": true,
+                    "Name": "1482-82.157.190.177",
+                    "RegionID": 1482
+                }
+            ],
+            "RegionCode": "other582",
+            "RegionID": 1482,
+            "RegionName": "Beijing"
+        },
+        "1595": {
+            "Nodes": [
+                {
+                    "DERPPort": 5566,
+                    "IPv4": "43.143.249.8",
+                    "InsecureForTests": true,
+                    "Name": "1595-43.143.249.8",
+                    "RegionID": 1595
+                }
+            ],
+            "RegionCode": "other695",
+            "RegionID": 1595,
+            "RegionName": "Beijing"
+        },
+        "1102": {
+            "Nodes": [
+                {
+                    "DERPPort": 58888,
+                    "IPv4": "101.201.80.102",
+                    "InsecureForTests": true,
+                    "Name": "1102-101.201.80.102",
+                    "RegionID": 1102
+                }
+            ],
+            "RegionCode": "other202",
+            "RegionID": 1102,
+            "RegionName": "Hangzhou"
+        },
+        "1451": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "120.46.158.165",
+                    "InsecureForTests": true,
+                    "Name": "1451-120.46.158.165",
+                    "RegionID": 1451
+                }
+            ],
+            "RegionCode": "other551",
+            "RegionID": 1451,
+            "RegionName": "Guangzhou"
+        },
+        "1294": {
+            "Nodes": [
+                {
+                    "DERPPort": 3443,
+                    "IPv4": "121.36.91.167",
+                    "InsecureForTests": true,
+                    "Name": "1294-121.36.91.167",
+                    "RegionID": 1294
+                }
+            ],
+            "RegionCode": "other394",
+            "RegionID": 1294,
+            "RegionName": "Beijing"
+        },
+        "1072": {
+            "Nodes": [
+                {
+                    "DERPPort": 8443,
+                    "IPv4": "106.75.31.40",
+                    "InsecureForTests": true,
+                    "Name": "1072-106.75.31.40",
+                    "RegionID": 1072
+                }
+            ],
+            "RegionCode": "other172",
+            "RegionID": 1072,
+            "RegionName": "Shanghai"
+        },
+        "1131": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "49.232.247.6",
+                    "InsecureForTests": true,
+                    "Name": "1131-49.232.247.6",
+                    "RegionID": 1131
+                }
+            ],
+            "RegionCode": "other231",
+            "RegionID": 1131,
+            "RegionName": "Beijing"
+        },
+        "1158": {
+            "Nodes": [
+                {
+                    "DERPPort": 6688,
+                    "IPv4": "152.136.37.196",
+                    "InsecureForTests": true,
+                    "Name": "1158-152.136.37.196",
+                    "RegionID": 1158
+                }
+            ],
+            "RegionCode": "other258",
+            "RegionID": 1158,
+            "RegionName": "Beijing"
+        },
+        "1020": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "117.50.163.108",
+                    "InsecureForTests": true,
+                    "Name": "1020-117.50.163.108",
+                    "RegionID": 1020
+                }
+            ],
+            "RegionCode": "other120",
+            "RegionID": 1020,
+            "RegionName": "Shanghai"
+        },
+        "1827": {
+            "Nodes": [
+                {
+                    "DERPPort": 59443,
+                    "IPv4": "8.130.102.33",
+                    "InsecureForTests": true,
+                    "Name": "1827-8.130.102.33",
+                    "RegionID": 1827
+                }
+            ],
+            "RegionCode": "other927",
+            "RegionID": 1827,
+            "RegionName": "Beijing"
+        },
+        "1282": {
+            "Nodes": [
+                {
+                    "DERPPort": 4443,
+                    "IPv4": "115.190.84.161",
+                    "InsecureForTests": true,
+                    "Name": "1282-115.190.84.161",
+                    "RegionID": 1282
+                }
+            ],
+            "RegionCode": "other382",
+            "RegionID": 1282,
+            "RegionName": "Beijing"
+        },
+        "1044": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "117.72.118.138",
+                    "InsecureForTests": true,
+                    "Name": "1044-117.72.118.138",
+                    "RegionID": 1044
+                }
+            ],
+            "RegionCode": "other144",
+            "RegionID": 1044,
+            "RegionName": "Beijing"
+        },
+        "1738": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "8.130.78.119",
+                    "InsecureForTests": true,
+                    "Name": "1738-8.130.78.119",
+                    "RegionID": 1738
+                }
+            ],
+            "RegionCode": "other838",
+            "RegionID": 1738,
+            "RegionName": "Beijing"
+        },
+        "1263": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "180.184.39.229",
+                    "InsecureForTests": true,
+                    "Name": "1263-180.184.39.229",
+                    "RegionID": 1263
+                }
+            ],
+            "RegionCode": "other363",
+            "RegionID": 1263,
+            "RegionName": "Beijing"
+        },
+        "1153": {
+            "Nodes": [
+                {
+                    "DERPPort": 6688,
+                    "IPv4": "82.156.9.17",
+                    "InsecureForTests": true,
+                    "Name": "1153-82.156.9.17",
+                    "RegionID": 1153
+                }
+            ],
+            "RegionCode": "other253",
+            "RegionID": 1153,
+            "RegionName": "Beijing"
+        },
+        "1207": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "39.99.227.120",
+                    "InsecureForTests": true,
+                    "Name": "1207-39.99.227.120",
+                    "RegionID": 1207
+                }
+            ],
+            "RegionCode": "other307",
+            "RegionID": 1207,
+            "RegionName": "Hangzhou"
+        },
+        "1222": {
+            "Nodes": [
+                {
+                    "DERPPort": 444,
+                    "IPv4": "123.56.119.101",
+                    "InsecureForTests": true,
+                    "Name": "1222-123.56.119.101",
+                    "RegionID": 1222
+                }
+            ],
+            "RegionCode": "other322",
+            "RegionID": 1222,
+            "RegionName": "Beijing"
+        },
+        "1259": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "123.57.139.65",
+                    "InsecureForTests": true,
+                    "Name": "1259-123.57.139.65",
+                    "RegionID": 1259
+                }
+            ],
+            "RegionCode": "other359",
+            "RegionID": 1259,
+            "RegionName": "Hangzhou"
+        },
+        "1526": {
+            "Nodes": [
+                {
+                    "DERPPort": 1443,
+                    "IPv4": "124.71.239.1",
+                    "InsecureForTests": true,
+                    "Name": "1526-124.71.239.1",
+                    "RegionID": 1526
+                }
+            ],
+            "RegionCode": "other626",
+            "RegionID": 1526,
+            "RegionName": "Guangzhou"
+        },
+        "1073": {
+            "Nodes": [
+                {
+                    "DERPPort": 8443,
+                    "IPv4": "8.130.82.100",
+                    "InsecureForTests": true,
+                    "Name": "1073-8.130.82.100",
+                    "RegionID": 1073
+                }
+            ],
+            "RegionCode": "other173",
+            "RegionID": 1073,
+            "RegionName": "Beijing"
+        },
+        "1387": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "1.94.245.30",
+                    "InsecureForTests": true,
+                    "Name": "1387-1.94.245.30",
+                    "RegionID": 1387
+                }
+            ],
+            "RegionCode": "other487",
+            "RegionID": 1387,
+            "RegionName": "Beijing"
+        },
+        "1332": {
+            "Nodes": [
+                {
+                    "DERPPort": 10443,
+                    "IPv4": "117.72.70.112",
+                    "InsecureForTests": true,
+                    "Name": "1332-117.72.70.112",
+                    "RegionID": 1332
+                }
+            ],
+            "RegionCode": "other432",
+            "RegionID": 1332,
+            "RegionName": "Beijing"
+        },
+        "1005": {
+            "Nodes": [
+                {
+                    "DERPPort": 4430,
+                    "IPv4": "117.50.171.163",
+                    "InsecureForTests": true,
+                    "Name": "1005-117.50.171.163",
+                    "RegionID": 1005
+                }
+            ],
+            "RegionCode": "other105",
+            "RegionID": 1005,
+            "RegionName": "Shanghai"
+        },
+        "1861": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "8.130.44.237",
+                    "InsecureForTests": true,
+                    "Name": "1861-8.130.44.237",
+                    "RegionID": 1861
+                }
+            ],
+            "RegionCode": "other961",
+            "RegionID": 1861,
+            "RegionName": "Beijing"
+        },
+        "1727": {
+            "Nodes": [
+                {
+                    "DERPPort": 4435,
+                    "IPv4": "219.148.38.38",
+                    "InsecureForTests": true,
+                    "Name": "1727-219.148.38.38",
+                    "RegionID": 1727
+                }
+            ],
+            "RegionCode": "other827",
+            "RegionID": 1727,
+            "RegionName": "Shijiazhuang"
+        },
+        "1402": {
+            "Nodes": [
+                {
+                    "DERPPort": 12355,
+                    "IPv4": "47.104.16.82",
+                    "InsecureForTests": true,
+                    "Name": "1402-47.104.16.82",
+                    "RegionID": 1402
+                }
+            ],
+            "RegionCode": "other502",
+            "RegionID": 1402,
+            "RegionName": "Qingdao"
+        },
+        "1464": {
+            "Nodes": [
+                {
+                    "DERPPort": 10445,
+                    "IPv4": "81.68.89.127",
+                    "InsecureForTests": true,
+                    "Name": "1464-81.68.89.127",
+                    "RegionID": 1464
+                }
+            ],
+            "RegionCode": "other564",
+            "RegionID": 1464,
+            "RegionName": "Beijing"
+        },
+        "1507": {
+            "Nodes": [
+                {
+                    "DERPPort": 10010,
+                    "IPv4": "47.104.196.6",
+                    "InsecureForTests": true,
+                    "Name": "1507-47.104.196.6",
+                    "RegionID": 1507
+                }
+            ],
+            "RegionCode": "other607",
+            "RegionID": 1507,
+            "RegionName": "Qingdao"
+        },
+        "1003": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "117.72.72.8",
+                    "InsecureForTests": true,
+                    "Name": "1003-117.72.72.8",
+                    "RegionID": 1003
+                }
+            ],
+            "RegionCode": "other103",
+            "RegionID": 1003,
+            "RegionName": "Beijing"
+        },
+        "1034": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "42.192.178.199",
+                    "InsecureForTests": true,
+                    "Name": "1034-42.192.178.199",
+                    "RegionID": 1034
+                }
+            ],
+            "RegionCode": "other134",
+            "RegionID": 1034,
+            "RegionName": "Beijing"
+        },
+        "1728": {
+            "Nodes": [
+                {
+                    "DERPPort": 4435,
+                    "IPv4": "219.148.38.37",
+                    "InsecureForTests": true,
+                    "Name": "1728-219.148.38.37",
+                    "RegionID": 1728
+                }
+            ],
+            "RegionCode": "other828",
+            "RegionID": 1728,
+            "RegionName": "Shijiazhuang"
+        },
+        "969": {
+            "Nodes": [
+                {
+                    "DERPPort": 2443,
+                    "IPv4": "124.222.219.192",
+                    "InsecureForTests": true,
+                    "Name": "969-124.222.219.192",
+                    "RegionID": 969
+                }
+            ],
+            "RegionCode": "other69",
+            "RegionID": 969,
+            "RegionName": "Beijing"
+        },
+        "926": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "113.44.69.140",
+                    "InsecureForTests": true,
+                    "Name": "926-113.44.69.140",
+                    "RegionID": 926
+                }
+            ],
+            "RegionCode": "other26",
+            "RegionID": 926,
+            "RegionName": "Guangzhou"
+        },
+        "919": {
+            "Nodes": [
+                {
+                    "DERPPort": 4443,
+                    "IPv4": "111.229.136.132",
+                    "InsecureForTests": true,
+                    "Name": "919-111.229.136.132",
+                    "RegionID": 919
+                }
+            ],
+            "RegionCode": "other19",
+            "RegionID": 919,
+            "RegionName": "Beijing"
+        },
+        "1313": {
+            "Nodes": [
+                {
+                    "DERPPort": 7788,
+                    "IPv4": "122.51.140.186",
+                    "InsecureForTests": true,
+                    "Name": "1313-122.51.140.186",
+                    "RegionID": 1313
+                }
+            ],
+            "RegionCode": "other413",
+            "RegionID": 1313,
+            "RegionName": "Beijing"
+        },
+        "973": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "47.100.13.39",
+                    "InsecureForTests": true,
+                    "Name": "973-47.100.13.39",
+                    "RegionID": 973
+                }
+            ],
+            "RegionCode": "other73",
+            "RegionID": 973,
+            "RegionName": "Shanghai"
+        },
+        "1463": {
+            "Nodes": [
+                {
+                    "DERPPort": 8443,
+                    "IPv4": "119.3.154.15",
+                    "InsecureForTests": true,
+                    "Name": "1463-119.3.154.15",
+                    "RegionID": 1463
+                }
+            ],
+            "RegionCode": "other563",
+            "RegionID": 1463,
+            "RegionName": "Guangzhou"
+        },
+        "1400": {
+            "Nodes": [
+                {
+                    "DERPPort": 12355,
+                    "IPv4": "101.43.22.132",
+                    "InsecureForTests": true,
+                    "Name": "1400-101.43.22.132",
+                    "RegionID": 1400
+                }
+            ],
+            "RegionCode": "other500",
+            "RegionID": 1400,
+            "RegionName": "Beijing"
+        },
+        "1465": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "121.62.31.163",
+                    "InsecureForTests": true,
+                    "Name": "1465-121.62.31.163",
+                    "RegionID": 1465
+                }
+            ],
+            "RegionCode": "other565",
+            "RegionID": 1465,
+            "RegionName": "Shiyan"
+        },
+        "1380": {
+            "Nodes": [
+                {
+                    "DERPPort": 8443,
+                    "IPv4": "106.14.193.26",
+                    "InsecureForTests": true,
+                    "Name": "1380-106.14.193.26",
+                    "RegionID": 1380
+                }
+            ],
+            "RegionCode": "other480",
+            "RegionID": 1380,
+            "RegionName": "Shanghai"
+        },
+        "1414": {
+            "Nodes": [
+                {
+                    "DERPPort": 4443,
+                    "IPv4": "106.14.147.184",
+                    "InsecureForTests": true,
+                    "Name": "1414-106.14.147.184",
+                    "RegionID": 1414
+                }
+            ],
+            "RegionCode": "other514",
+            "RegionID": 1414,
+            "RegionName": "Shanghai"
+        },
+        "1678": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "81.69.22.170",
+                    "InsecureForTests": true,
+                    "Name": "1678-81.69.22.170",
+                    "RegionID": 1678
+                }
+            ],
+            "RegionCode": "other778",
+            "RegionID": 1678,
+            "RegionName": "Beijing"
+        },
+        "1406": {
+            "Nodes": [
+                {
+                    "DERPPort": 9443,
+                    "IPv4": "124.222.23.182",
+                    "InsecureForTests": true,
+                    "Name": "1406-124.222.23.182",
+                    "RegionID": 1406
+                }
+            ],
+            "RegionCode": "other506",
+            "RegionID": 1406,
+            "RegionName": "Beijing"
+        },
+        "1498": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "101.132.135.180",
+                    "InsecureForTests": true,
+                    "Name": "1498-101.132.135.180",
+                    "RegionID": 1498
+                }
+            ],
+            "RegionCode": "other598",
+            "RegionID": 1498,
+            "RegionName": "Shanghai"
+        },
+        "1213": {
+            "Nodes": [
+                {
+                    "DERPPort": 8443,
+                    "IPv4": "123.232.123.250",
+                    "InsecureForTests": true,
+                    "Name": "1213-123.232.123.250",
+                    "RegionID": 1213
+                }
+            ],
+            "RegionCode": "other313",
+            "RegionID": 1213,
+            "RegionName": "Jinan"
+        },
+        "1461": {
+            "Nodes": [
+                {
+                    "DERPPort": 11000,
+                    "IPv4": "124.220.10.161",
+                    "InsecureForTests": true,
+                    "Name": "1461-124.220.10.161",
+                    "RegionID": 1461
+                }
+            ],
+            "RegionCode": "other561",
+            "RegionID": 1461,
+            "RegionName": "Beijing"
+        },
+        "1386": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "36.41.64.224",
+                    "InsecureForTests": true,
+                    "Name": "1386-36.41.64.224",
+                    "RegionID": 1386
+                }
+            ],
+            "RegionCode": "other486",
+            "RegionID": 1386,
+            "RegionName": "Xi'an"
+        },
+        "1726": {
+            "Nodes": [
+                {
+                    "DERPPort": 4435,
+                    "IPv4": "47.116.59.104",
+                    "InsecureForTests": true,
+                    "Name": "1726-47.116.59.104",
+                    "RegionID": 1726
+                }
+            ],
+            "RegionCode": "other826",
+            "RegionID": 1726,
+            "RegionName": "Shanghai"
+        },
+        "1583": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "106.75.231.203",
+                    "InsecureForTests": true,
+                    "Name": "1583-106.75.231.203",
+                    "RegionID": 1583
+                }
+            ],
+            "RegionCode": "other683",
+            "RegionID": 1583,
+            "RegionName": "Shanghai"
+        },
+        "1004": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "146.56.192.65",
+                    "InsecureForTests": true,
+                    "Name": "1004-146.56.192.65",
+                    "RegionID": 1004
+                }
+            ],
+            "RegionCode": "other104",
+            "RegionID": 1004,
+            "RegionName": "Beijing"
+        },
+        "1181": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "47.103.83.154",
+                    "InsecureForTests": true,
+                    "Name": "1181-47.103.83.154",
+                    "RegionID": 1181
+                }
+            ],
+            "RegionCode": "other281",
+            "RegionID": 1181,
+            "RegionName": "Hangzhou"
+        },
+        "1226": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "110.42.53.4",
+                    "InsecureForTests": true,
+                    "Name": "1226-110.42.53.4",
+                    "RegionID": 1226
+                }
+            ],
+            "RegionCode": "other326",
+            "RegionID": 1226,
+            "RegionName": "Ningbo"
+        },
+        "1952": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "150.158.24.195",
+                    "InsecureForTests": true,
+                    "Name": "1952-150.158.24.195",
+                    "RegionID": 1952
+                }
+            ],
+            "RegionCode": "other1052",
+            "RegionID": 1952,
+            "RegionName": "Beijing"
+        },
+        "1731": {
+            "Nodes": [
+                {
+                    "DERPPort": 4435,
+                    "IPv4": "47.102.121.179",
+                    "InsecureForTests": true,
+                    "Name": "1731-47.102.121.179",
+                    "RegionID": 1731
+                }
+            ],
+            "RegionCode": "other831",
+            "RegionID": 1731,
+            "RegionName": "Hangzhou"
+        },
+        "1071": {
+            "Nodes": [
+                {
+                    "DERPPort": 3443,
+                    "IPv4": "47.100.95.208",
+                    "InsecureForTests": true,
+                    "Name": "1071-47.100.95.208",
+                    "RegionID": 1071
+                }
+            ],
+            "RegionCode": "other171",
+            "RegionID": 1071,
+            "RegionName": "Shanghai"
+        },
+        "1076": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "120.26.15.152",
+                    "InsecureForTests": true,
+                    "Name": "1076-120.26.15.152",
+                    "RegionID": 1076
+                }
+            ],
+            "RegionCode": "other176",
+            "RegionID": 1076,
+            "RegionName": "Hangzhou"
+        },
+        "1524": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "124.223.26.87",
+                    "InsecureForTests": true,
+                    "Name": "1524-124.223.26.87",
+                    "RegionID": 1524
+                }
+            ],
+            "RegionCode": "other624",
+            "RegionID": 1524,
+            "RegionName": "Beijing"
+        },
+        "1370": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "43.136.182.240",
+                    "InsecureForTests": true,
+                    "Name": "1370-43.136.182.240",
+                    "RegionID": 1370
+                }
+            ],
+            "RegionCode": "other470",
+            "RegionID": 1370,
+            "RegionName": "Beijing"
+        },
+        "1077": {
+            "Nodes": [
+                {
+                    "DERPPort": 54321,
+                    "IPv4": "124.221.12.51",
+                    "InsecureForTests": true,
+                    "Name": "1077-124.221.12.51",
+                    "RegionID": 1077
+                }
+            ],
+            "RegionCode": "other177",
+            "RegionID": 1077,
+            "RegionName": "Beijing"
+        },
+        "1515": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "47.98.105.107",
+                    "InsecureForTests": true,
+                    "Name": "1515-47.98.105.107",
+                    "RegionID": 1515
+                }
+            ],
+            "RegionCode": "other615",
+            "RegionID": 1515,
+            "RegionName": "Hangzhou"
+        },
+        "905": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "47.108.80.212",
+                    "InsecureForTests": true,
+                    "Name": "905-47.108.80.212",
+                    "RegionID": 905
+                }
+            ],
+            "RegionCode": "other5",
+            "RegionID": 905,
+            "RegionName": "Chengdu"
+        },
+        "929": {
+            "Nodes": [
+                {
+                    "DERPPort": 4433,
+                    "IPv4": "123.60.183.135",
+                    "InsecureForTests": true,
+                    "Name": "929-123.60.183.135",
+                    "RegionID": 929
+                }
+            ],
+            "RegionCode": "other29",
+            "RegionID": 929,
+            "RegionName": "Guangzhou"
+        },
+        "1901": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "129.211.9.233",
+                    "InsecureForTests": true,
+                    "Name": "1901-129.211.9.233",
+                    "RegionID": 1901
+                }
+            ],
+            "RegionCode": "other1001",
+            "RegionID": 1901,
+            "RegionName": "Beijing"
+        },
+        "1551": {
+            "Nodes": [
+                {
+                    "DERPPort": 8443,
+                    "IPv4": "101.34.65.160",
+                    "InsecureForTests": true,
+                    "Name": "1551-101.34.65.160",
+                    "RegionID": 1551
+                }
+            ],
+            "RegionCode": "other651",
+            "RegionID": 1551,
+            "RegionName": "Beijing"
+        },
+        "1729": {
+            "Nodes": [
+                {
+                    "DERPPort": 4435,
+                    "IPv4": "124.221.255.17",
+                    "InsecureForTests": true,
+                    "Name": "1729-124.221.255.17",
+                    "RegionID": 1729
+                }
+            ],
+            "RegionCode": "other829",
+            "RegionID": 1729,
+            "RegionName": "Beijing"
+        },
+        "1191": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "124.222.54.72",
+                    "InsecureForTests": true,
+                    "Name": "1191-124.222.54.72",
+                    "RegionID": 1191
+                }
+            ],
+            "RegionCode": "other291",
+            "RegionID": 1191,
+            "RegionName": "Beijing"
+        },
+        "1490": {
+            "Nodes": [
+                {
+                    "DERPPort": 10043,
+                    "IPv4": "110.40.135.108",
+                    "InsecureForTests": true,
+                    "Name": "1490-110.40.135.108",
+                    "RegionID": 1490
+                }
+            ],
+            "RegionCode": "other590",
+            "RegionID": 1490,
+            "RegionName": "Beijing"
+        },
+        "1799": {
+            "Nodes": [
+                {
+                    "DERPPort": 59443,
+                    "IPv4": "212.64.28.82",
+                    "InsecureForTests": true,
+                    "Name": "1799-212.64.28.82",
+                    "RegionID": 1799
+                }
+            ],
+            "RegionCode": "other899",
+            "RegionID": 1799,
+            "RegionName": "Beijing"
+        },
+        "1284": {
+            "Nodes": [
+                {
+                    "DERPPort": 6443,
+                    "IPv4": "120.55.165.77",
+                    "InsecureForTests": true,
+                    "Name": "1284-120.55.165.77",
+                    "RegionID": 1284
+                }
+            ],
+            "RegionCode": "other384",
+            "RegionID": 1284,
+            "RegionName": "Hangzhou"
+        },
+        "1699": {
+            "Nodes": [
+                {
+                    "DERPPort": 6688,
+                    "IPv4": "101.132.76.169",
+                    "InsecureForTests": true,
+                    "Name": "1699-101.132.76.169",
+                    "RegionID": 1699
+                }
+            ],
+            "RegionCode": "other799",
+            "RegionID": 1699,
+            "RegionName": "Shanghai"
+        },
+        "1774": {
+            "Nodes": [
+                {
+                    "DERPPort": 5555,
+                    "IPv4": "120.92.147.96",
+                    "InsecureForTests": true,
+                    "Name": "1774-120.92.147.96",
+                    "RegionID": 1774
+                }
+            ],
+            "RegionCode": "other874",
+            "RegionID": 1774,
+            "RegionName": "Beijing"
+        },
+        "1248": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "124.222.115.40",
+                    "InsecureForTests": true,
+                    "Name": "1248-124.222.115.40",
+                    "RegionID": 1248
+                }
+            ],
+            "RegionCode": "other348",
+            "RegionID": 1248,
+            "RegionName": "Beijing"
+        },
+        "983": {
+            "Nodes": [
+                {
+                    "DERPPort": 4430,
+                    "IPv4": "1.117.222.89",
+                    "InsecureForTests": true,
+                    "Name": "983-1.117.222.89",
+                    "RegionID": 983
+                }
+            ],
+            "RegionCode": "other83",
+            "RegionID": 983,
+            "RegionName": "Beijing"
+        },
+        "1279": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "1.94.145.176",
+                    "InsecureForTests": true,
+                    "Name": "1279-1.94.145.176",
+                    "RegionID": 1279
+                }
+            ],
+            "RegionCode": "other379",
+            "RegionID": 1279,
+            "RegionName": "Beijing"
+        },
+        "1772": {
+            "Nodes": [
+                {
+                    "DERPPort": 2048,
+                    "IPv4": "112.124.44.218",
+                    "InsecureForTests": true,
+                    "Name": "1772-112.124.44.218",
+                    "RegionID": 1772
+                }
+            ],
+            "RegionCode": "other872",
+            "RegionID": 1772,
+            "RegionName": "Hangzhou"
+        },
+        "1837": {
+            "Nodes": [
+                {
+                    "DERPPort": 59443,
+                    "IPv4": "47.99.89.41",
+                    "InsecureForTests": true,
+                    "Name": "1837-47.99.89.41",
+                    "RegionID": 1837
+                }
+            ],
+            "RegionCode": "other937",
+            "RegionID": 1837,
+            "RegionName": "Hangzhou"
+        },
+        "1879": {
+            "Nodes": [
+                {
+                    "DERPPort": 16011,
+                    "IPv4": "47.98.207.163",
+                    "InsecureForTests": true,
+                    "Name": "1879-47.98.207.163",
+                    "RegionID": 1879
+                }
+            ],
+            "RegionCode": "other979",
+            "RegionID": 1879,
+            "RegionName": "Hangzhou"
+        },
+        "1833": {
+            "Nodes": [
+                {
+                    "DERPPort": 59443,
+                    "IPv4": "118.31.53.118",
+                    "InsecureForTests": true,
+                    "Name": "1833-118.31.53.118",
+                    "RegionID": 1833
+                }
+            ],
+            "RegionCode": "other933",
+            "RegionID": 1833,
+            "RegionName": "Hangzhou"
+        },
+        "1272": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "101.35.222.38",
+                    "InsecureForTests": true,
+                    "Name": "1272-101.35.222.38",
+                    "RegionID": 1272
+                }
+            ],
+            "RegionCode": "other372",
+            "RegionID": 1272,
+            "RegionName": "Beijing"
+        },
+        "1015": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "113.44.95.148",
+                    "InsecureForTests": true,
+                    "Name": "1015-113.44.95.148",
+                    "RegionID": 1015
+                }
+            ],
+            "RegionCode": "other115",
+            "RegionID": 1015,
+            "RegionName": "Guangzhou"
+        },
+        "1828": {
+            "Nodes": [
+                {
+                    "DERPPort": 59443,
+                    "IPv4": "118.178.232.247",
+                    "InsecureForTests": true,
+                    "Name": "1828-118.178.232.247",
+                    "RegionID": 1828
+                }
+            ],
+            "RegionCode": "other928",
+            "RegionID": 1828,
+            "RegionName": "Hangzhou"
+        },
+        "1281": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "47.96.178.62",
+                    "InsecureForTests": true,
+                    "Name": "1281-47.96.178.62",
+                    "RegionID": 1281
+                }
+            ],
+            "RegionCode": "other381",
+            "RegionID": 1281,
+            "RegionName": "Hangzhou"
+        },
+        "1821": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "8.138.82.117",
+                    "InsecureForTests": true,
+                    "Name": "1821-8.138.82.117",
+                    "RegionID": 1821
+                }
+            ],
+            "RegionCode": "other921",
+            "RegionID": 1821,
+            "RegionName": "Guangzhou"
+        },
+        "1196": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "124.221.74.103",
+                    "InsecureForTests": true,
+                    "Name": "1196-124.221.74.103",
+                    "RegionID": 1196
+                }
+            ],
+            "RegionCode": "other296",
+            "RegionID": 1196,
+            "RegionName": "Beijing"
+        },
+        "1189": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "8.134.198.153",
+                    "InsecureForTests": true,
+                    "Name": "1189-8.134.198.153",
+                    "RegionID": 1189
+                }
+            ],
+            "RegionCode": "other289",
+            "RegionID": 1189,
+            "RegionName": "Guangzhou"
+        },
+        "1596": {
+            "Nodes": [
+                {
+                    "DERPPort": 3443,
+                    "IPv4": "8.136.103.57",
+                    "InsecureForTests": true,
+                    "Name": "1596-8.136.103.57",
+                    "RegionID": 1596
+                }
+            ],
+            "RegionCode": "other696",
+            "RegionID": 1596,
+            "RegionName": "Hangzhou"
+        },
+        "1134": {
+            "Nodes": [
+                {
+                    "DERPPort": 1234,
+                    "IPv4": "129.211.79.190",
+                    "InsecureForTests": true,
+                    "Name": "1134-129.211.79.190",
+                    "RegionID": 1134
+                }
+            ],
+            "RegionCode": "other234",
+            "RegionID": 1134,
+            "RegionName": "Beijing"
+        },
+        "1610": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "8.138.59.85",
+                    "InsecureForTests": true,
+                    "Name": "1610-8.138.59.85",
+                    "RegionID": 1610
+                }
+            ],
+            "RegionCode": "other710",
+            "RegionID": 1610,
+            "RegionName": "Guangzhou"
+        },
+        "972": {
+            "Nodes": [
+                {
+                    "DERPPort": 54321,
+                    "IPv4": "47.109.21.181",
+                    "InsecureForTests": true,
+                    "Name": "972-47.109.21.181",
+                    "RegionID": 972
+                }
+            ],
+            "RegionCode": "other72",
+            "RegionID": 972,
+            "RegionName": "Hangzhou"
+        },
+        "1592": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "8.138.124.221",
+                    "InsecureForTests": true,
+                    "Name": "1592-8.138.124.221",
+                    "RegionID": 1592
+                }
+            ],
+            "RegionCode": "other692",
+            "RegionID": 1592,
+            "RegionName": "Guangzhou"
+        },
+        "1169": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "139.186.134.217",
+                    "InsecureForTests": true,
+                    "Name": "1169-139.186.134.217",
+                    "RegionID": 1169
+                }
+            ],
+            "RegionCode": "other269",
+            "RegionID": 1169,
+            "RegionName": "Beijing"
+        },
+        "1527": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "47.109.204.233",
+                    "InsecureForTests": true,
+                    "Name": "1527-47.109.204.233",
+                    "RegionID": 1527
+                }
+            ],
+            "RegionCode": "other627",
+            "RegionID": 1527,
+            "RegionName": "Hangzhou"
+        },
+        "1475": {
+            "Nodes": [
+                {
+                    "DERPPort": 10089,
+                    "IPv4": "118.31.164.83",
+                    "InsecureForTests": true,
+                    "Name": "1475-118.31.164.83",
+                    "RegionID": 1475
+                }
+            ],
+            "RegionCode": "other575",
+            "RegionID": 1475,
+            "RegionName": "Hangzhou"
+        },
+        "1142": {
+            "Nodes": [
+                {
+                    "DERPPort": 6688,
+                    "IPv4": "139.155.29.73",
+                    "InsecureForTests": true,
+                    "Name": "1142-139.155.29.73",
+                    "RegionID": 1142
+                }
+            ],
+            "RegionCode": "other242",
+            "RegionID": 1142,
+            "RegionName": "Beijing"
+        },
+        "1256": {
+            "Nodes": [
+                {
+                    "DERPPort": 18001,
+                    "IPv4": "47.108.115.96",
+                    "InsecureForTests": true,
+                    "Name": "1256-47.108.115.96",
+                    "RegionID": 1256
+                }
+            ],
+            "RegionCode": "other356",
+            "RegionID": 1256,
+            "RegionName": "Chengdu"
+        },
+        "1835": {
+            "Nodes": [
+                {
+                    "DERPPort": 59443,
+                    "IPv4": "47.108.50.229",
+                    "InsecureForTests": true,
+                    "Name": "1835-47.108.50.229",
+                    "RegionID": 1835
+                }
+            ],
+            "RegionCode": "other935",
+            "RegionID": 1835,
+            "RegionName": "Chengdu"
+        },
+        "1395": {
+            "Nodes": [
+                {
+                    "DERPPort": 8443,
+                    "IPv4": "112.74.44.17",
+                    "InsecureForTests": true,
+                    "Name": "1395-112.74.44.17",
+                    "RegionID": 1395
+                }
+            ],
+            "RegionCode": "other495",
+            "RegionID": 1395,
+            "RegionName": "Shenzhen"
+        },
+        "1099": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "47.109.107.173",
+                    "InsecureForTests": true,
+                    "Name": "1099-47.109.107.173",
+                    "RegionID": 1099
+                }
+            ],
+            "RegionCode": "other199",
+            "RegionID": 1099,
+            "RegionName": "Hangzhou"
+        },
+        "1234": {
+            "Nodes": [
+                {
+                    "DERPPort": 8082,
+                    "IPv4": "111.230.91.225",
+                    "InsecureForTests": true,
+                    "Name": "1234-111.230.91.225",
+                    "RegionID": 1234
+                }
+            ],
+            "RegionCode": "other334",
+            "RegionID": 1234,
+            "RegionName": "Beijing"
+        },
+        "1159": {
+            "Nodes": [
+                {
+                    "DERPPort": 6688,
+                    "IPv4": "47.108.194.115",
+                    "InsecureForTests": true,
+                    "Name": "1159-47.108.194.115",
+                    "RegionID": 1159
+                }
+            ],
+            "RegionCode": "other259",
+            "RegionID": 1159,
+            "RegionName": "Chengdu"
+        },
+        "1351": {
+            "Nodes": [
+                {
+                    "DERPPort": 9999,
+                    "IPv4": "8.137.91.35",
+                    "InsecureForTests": true,
+                    "Name": "1351-8.137.91.35",
+                    "RegionID": 1351
+                }
+            ],
+            "RegionCode": "other451",
+            "RegionID": 1351,
+            "RegionName": "Chengdu"
+        },
+        "1869": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "8.134.174.66",
+                    "InsecureForTests": true,
+                    "Name": "1869-8.134.174.66",
+                    "RegionID": 1869
+                }
+            ],
+            "RegionCode": "other969",
+            "RegionID": 1869,
+            "RegionName": "Guangzhou"
+        },
+        "933": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "117.48.192.55",
+                    "InsecureForTests": true,
+                    "Name": "933-117.48.192.55",
+                    "RegionID": 933
+                }
+            ],
+            "RegionCode": "other33",
+            "RegionID": 933,
+            "RegionName": "Beijing"
+        },
+        "1265": {
+            "Nodes": [
+                {
+                    "DERPPort": 3479,
+                    "IPv4": "182.44.12.106",
+                    "InsecureForTests": true,
+                    "Name": "1265-182.44.12.106",
+                    "RegionID": 1265
+                }
+            ],
+            "RegionCode": "other365",
+            "RegionID": 1265,
+            "RegionName": "Heze"
+        },
+        "1283": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "139.199.224.231",
+                    "InsecureForTests": true,
+                    "Name": "1283-139.199.224.231",
+                    "RegionID": 1283
+                }
+            ],
+            "RegionCode": "other383",
+            "RegionID": 1283,
+            "RegionName": "Beijing"
+        },
+        "1397": {
+            "Nodes": [
+                {
+                    "DERPPort": 8443,
+                    "IPv4": "47.242.41.170",
+                    "InsecureForTests": true,
+                    "Name": "1397-47.242.41.170",
+                    "RegionID": 1397
+                }
+            ],
+            "RegionCode": "other497",
+            "RegionID": 1397,
+            "RegionName": "Hong Kong"
+        },
+        "1037": {
+            "Nodes": [
+                {
+                    "DERPPort": 3443,
+                    "IPv4": "47.238.118.175",
+                    "InsecureForTests": true,
+                    "Name": "1037-47.238.118.175",
+                    "RegionID": 1037
+                }
+            ],
+            "RegionCode": "other137",
+            "RegionID": 1037,
+            "RegionName": "Hong Kong"
+        },
+        "1192": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "110.42.53.85",
+                    "InsecureForTests": true,
+                    "Name": "1192-110.42.53.85",
+                    "RegionID": 1192
+                }
+            ],
+            "RegionCode": "other292",
+            "RegionID": 1192,
+            "RegionName": "Ningbo"
+        },
+        "1372": {
+            "Nodes": [
+                {
+                    "DERPPort": 8443,
+                    "IPv4": "139.9.47.234",
+                    "InsecureForTests": true,
+                    "Name": "1372-139.9.47.234",
+                    "RegionID": 1372
+                }
+            ],
+            "RegionCode": "other472",
+            "RegionID": 1372,
+            "RegionName": "Guangzhou"
+        },
+        "995": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "8.137.89.241",
+                    "InsecureForTests": true,
+                    "Name": "995-8.137.89.241",
+                    "RegionID": 995
+                }
+            ],
+            "RegionCode": "other95",
+            "RegionID": 995,
+            "RegionName": "Chengdu"
+        },
+        "1466": {
+            "Nodes": [
+                {
+                    "DERPPort": 10445,
+                    "IPv4": "152.32.215.96",
+                    "InsecureForTests": true,
+                    "Name": "1466-152.32.215.96",
+                    "RegionID": 1466
+                }
+            ],
+            "RegionCode": "other566",
+            "RegionID": 1466,
+            "RegionName": "Hong Kong"
+        },
+        "1647": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "47.109.197.245",
+                    "InsecureForTests": true,
+                    "Name": "1647-47.109.197.245",
+                    "RegionID": 1647
+                }
+            ],
+            "RegionCode": "other747",
+            "RegionID": 1647,
+            "RegionName": "Hangzhou"
+        },
+        "1836": {
+            "Nodes": [
+                {
+                    "DERPPort": 59443,
+                    "IPv4": "47.119.18.241",
+                    "InsecureForTests": true,
+                    "Name": "1836-47.119.18.241",
+                    "RegionID": 1836
+                }
+            ],
+            "RegionCode": "other936",
+            "RegionID": 1836,
+            "RegionName": "Shenzhen"
+        },
+        "930": {
+            "Nodes": [
+                {
+                    "DERPPort": 4433,
+                    "IPv4": "1.12.235.165",
+                    "InsecureForTests": true,
+                    "Name": "930-1.12.235.165",
+                    "RegionID": 930
+                }
+            ],
+            "RegionCode": "other30",
+            "RegionID": 930,
+            "RegionName": "Beijing"
+        },
+        "962": {
+            "Nodes": [
+                {
+                    "DERPPort": 82,
+                    "IPv4": "47.106.234.14",
+                    "InsecureForTests": true,
+                    "Name": "962-47.106.234.14",
+                    "RegionID": 962
+                }
+            ],
+            "RegionCode": "other62",
+            "RegionID": 962,
+            "RegionName": "Shenzhen"
+        },
+        "1146": {
+            "Nodes": [
+                {
+                    "DERPPort": 6688,
+                    "IPv4": "139.199.170.15",
+                    "InsecureForTests": true,
+                    "Name": "1146-139.199.170.15",
+                    "RegionID": 1146
+                }
+            ],
+            "RegionCode": "other246",
+            "RegionID": 1146,
+            "RegionName": "Beijing"
+        },
+        "1421": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "42.194.132.154",
+                    "InsecureForTests": true,
+                    "Name": "1421-42.194.132.154",
+                    "RegionID": 1421
+                }
+            ],
+            "RegionCode": "other521",
+            "RegionID": 1421,
+            "RegionName": "Beijing"
+        },
+        "947": {
+            "Nodes": [
+                {
+                    "DERPPort": 8283,
+                    "IPv4": "110.41.56.35",
+                    "InsecureForTests": true,
+                    "Name": "947-110.41.56.35",
+                    "RegionID": 947
+                }
+            ],
+            "RegionCode": "other47",
+            "RegionID": 947,
+            "RegionName": "Guangzhou"
+        },
+        "1098": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "113.45.195.91",
+                    "InsecureForTests": true,
+                    "Name": "1098-113.45.195.91",
+                    "RegionID": 1098
+                }
+            ],
+            "RegionCode": "other198",
+            "RegionID": 1098,
+            "RegionName": "Guangzhou"
+        },
+        "1208": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "47.122.122.184",
+                    "InsecureForTests": true,
+                    "Name": "1208-47.122.122.184",
+                    "RegionID": 1208
+                }
+            ],
+            "RegionCode": "other308",
+            "RegionID": 1208,
+            "RegionName": "Hangzhou"
+        },
+        "1627": {
+            "Nodes": [
+                {
+                    "DERPPort": 10073,
+                    "IPv4": "1.14.124.71",
+                    "InsecureForTests": true,
+                    "Name": "1627-1.14.124.71",
+                    "RegionID": 1627
+                }
+            ],
+            "RegionCode": "other727",
+            "RegionID": 1627,
+            "RegionName": "Beijing"
+        },
+        "1023": {
+            "Nodes": [
+                {
+                    "DERPPort": 4443,
+                    "IPv4": "47.76.246.162",
+                    "InsecureForTests": true,
+                    "Name": "1023-47.76.246.162",
+                    "RegionID": 1023
+                }
+            ],
+            "RegionCode": "other123",
+            "RegionID": 1023,
+            "RegionName": "Hong Kong"
+        },
+        "1144": {
+            "Nodes": [
+                {
+                    "DERPPort": 6688,
+                    "IPv4": "101.36.119.166",
+                    "InsecureForTests": true,
+                    "Name": "1144-101.36.119.166",
+                    "RegionID": 1144
+                }
+            ],
+            "RegionCode": "other244",
+            "RegionID": 1144,
+            "RegionName": "Hong Kong"
+        },
+        "1700": {
+            "Nodes": [
+                {
+                    "DERPPort": 6688,
+                    "IPv4": "8.137.100.20",
+                    "InsecureForTests": true,
+                    "Name": "1700-8.137.100.20",
+                    "RegionID": 1700
+                }
+            ],
+            "RegionCode": "other800",
+            "RegionID": 1700,
+            "RegionName": "Chengdu"
+        },
+        "1286": {
+            "Nodes": [
+                {
+                    "DERPPort": 3443,
+                    "IPv4": "47.122.120.41",
+                    "InsecureForTests": true,
+                    "Name": "1286-47.122.120.41",
+                    "RegionID": 1286
+                }
+            ],
+            "RegionCode": "other386",
+            "RegionID": 1286,
+            "RegionName": "Hangzhou"
+        },
+        "1408": {
+            "Nodes": [
+                {
+                    "DERPPort": 12346,
+                    "IPv4": "119.91.146.15",
+                    "InsecureForTests": true,
+                    "Name": "1408-119.91.146.15",
+                    "RegionID": 1408
+                }
+            ],
+            "RegionCode": "other508",
+            "RegionID": 1408,
+            "RegionName": "Beijing"
+        },
+        "1046": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "121.37.244.114",
+                    "InsecureForTests": true,
+                    "Name": "1046-121.37.244.114",
+                    "RegionID": 1046
+                }
+            ],
+            "RegionCode": "other146",
+            "RegionID": 1046,
+            "RegionName": "Guangzhou"
+        },
+        "1555": {
+            "Nodes": [
+                {
+                    "DERPPort": 2443,
+                    "IPv4": "47.106.144.143",
+                    "InsecureForTests": true,
+                    "Name": "1555-47.106.144.143",
+                    "RegionID": 1555
+                }
+            ],
+            "RegionCode": "other655",
+            "RegionID": 1555,
+            "RegionName": "Shenzhen"
+        },
+        "1058": {
+            "Nodes": [
+                {
+                    "DERPPort": 30007,
+                    "IPv4": "47.119.153.177",
+                    "InsecureForTests": true,
+                    "Name": "1058-47.119.153.177",
+                    "RegionID": 1058
+                }
+            ],
+            "RegionCode": "other158",
+            "RegionID": 1058,
+            "RegionName": "Shenzhen"
+        },
+        "2056": {
+            "Nodes": [
+                {
+                    "DERPPort": 8443,
+                    "IPv4": "119.29.247.76",
+                    "InsecureForTests": true,
+                    "Name": "2056-119.29.247.76",
+                    "RegionID": 2056
+                }
+            ],
+            "RegionCode": "other1156",
+            "RegionID": 2056,
+            "RegionName": "Hong Kong"
+        },
+        "1404": {
+            "Nodes": [
+                {
+                    "DERPPort": 12349,
+                    "IPv4": "114.132.237.249",
+                    "InsecureForTests": true,
+                    "Name": "1404-114.132.237.249",
+                    "RegionID": 1404
+                }
+            ],
+            "RegionCode": "other504",
+            "RegionID": 1404,
+            "RegionName": "Beijing"
+        },
+        "1203": {
+            "Nodes": [
+                {
+                    "DERPPort": 8443,
+                    "IPv4": "113.45.39.178",
+                    "InsecureForTests": true,
+                    "Name": "1203-113.45.39.178",
+                    "RegionID": 1203
+                }
+            ],
+            "RegionCode": "other303",
+            "RegionID": 1203,
+            "RegionName": "Guangzhou"
+        },
+        "1163": {
+            "Nodes": [
+                {
+                    "DERPPort": 6688,
+                    "IPv4": "121.37.212.21",
+                    "InsecureForTests": true,
+                    "Name": "1163-121.37.212.21",
+                    "RegionID": 1163
+                }
+            ],
+            "RegionCode": "other263",
+            "RegionID": 1163,
+            "RegionName": "Guangzhou"
+        },
+        "1326": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "120.25.125.196",
+                    "InsecureForTests": true,
+                    "Name": "1326-120.25.125.196",
+                    "RegionID": 1326
+                }
+            ],
+            "RegionCode": "other426",
+            "RegionID": 1326,
+            "RegionName": "Shenzhen"
+        },
+        "1096": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "8.129.227.31",
+                    "InsecureForTests": true,
+                    "Name": "1096-8.129.227.31",
+                    "RegionID": 1096
+                }
+            ],
+            "RegionCode": "other196",
+            "RegionID": 1096,
+            "RegionName": "Shenzhen"
+        },
+        "1014": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "47.119.49.0",
+                    "InsecureForTests": true,
+                    "Name": "1014-47.119.49.0",
+                    "RegionID": 1014
+                }
+            ],
+            "RegionCode": "other114",
+            "RegionID": 1014,
+            "RegionName": "Shenzhen"
+        },
+        "1426": {
+            "Nodes": [
+                {
+                    "DERPPort": 7777,
+                    "IPv4": "120.25.174.45",
+                    "InsecureForTests": true,
+                    "Name": "1426-120.25.174.45",
+                    "RegionID": 1426
+                }
+            ],
+            "RegionCode": "other526",
+            "RegionID": 1426,
+            "RegionName": "Shenzhen"
+        },
+        "1623": {
+            "Nodes": [
+                {
+                    "DERPPort": 33443,
+                    "IPv4": "43.154.144.193",
+                    "InsecureForTests": true,
+                    "Name": "1623-43.154.144.193",
+                    "RegionID": 1623
+                }
+            ],
+            "RegionCode": "other723",
+            "RegionID": 1623,
+            "RegionName": "Hong Kong"
+        },
+        "1693": {
+            "Nodes": [
+                {
+                    "DERPPort": 6688,
+                    "IPv4": "120.24.239.13",
+                    "InsecureForTests": true,
+                    "Name": "1693-120.24.239.13",
+                    "RegionID": 1693
+                }
+            ],
+            "RegionCode": "other793",
+            "RegionID": 1693,
+            "RegionName": "Shenzhen"
+        },
+        "1032": {
+            "Nodes": [
+                {
+                    "DERPPort": 4443,
+                    "IPv4": "120.77.144.228",
+                    "InsecureForTests": true,
+                    "Name": "1032-120.77.144.228",
+                    "RegionID": 1032
+                }
+            ],
+            "RegionCode": "other132",
+            "RegionID": 1032,
+            "RegionName": "Hangzhou"
+        },
+        "1366": {
+            "Nodes": [
+                {
+                    "DERPPort": 17000,
+                    "IPv4": "47.120.25.245",
+                    "InsecureForTests": true,
+                    "Name": "1366-47.120.25.245",
+                    "RegionID": 1366
+                }
+            ],
+            "RegionCode": "other466",
+            "RegionID": 1366,
+            "RegionName": "Shenzhen"
+        },
+        "2028": {
+            "Nodes": [
+                {
+                    "DERPPort": 50443,
+                    "IPv4": "120.76.130.248",
+                    "InsecureForTests": true,
+                    "Name": "2028-120.76.130.248",
+                    "RegionID": 2028
+                }
+            ],
+            "RegionCode": "other1128",
+            "RegionID": 2028,
+            "RegionName": "Shenzhen"
+        },
+        "1420": {
+            "Nodes": [
+                {
+                    "DERPPort": 34567,
+                    "IPv4": "47.121.184.106",
+                    "InsecureForTests": true,
+                    "Name": "1420-47.121.184.106",
+                    "RegionID": 1420
+                }
+            ],
+            "RegionCode": "other520",
+            "RegionID": 1420,
+            "RegionName": "Hangzhou"
+        },
+        "994": {
+            "Nodes": [
+                {
+                    "DERPPort": 3443,
+                    "IPv4": "222.184.250.250",
+                    "InsecureForTests": true,
+                    "Name": "994-222.184.250.250",
+                    "RegionID": 994
+                }
+            ],
+            "RegionCode": "other94",
+            "RegionID": 994,
+            "RegionName": "Nanjing"
+        },
+        "1832": {
+            "Nodes": [
+                {
+                    "DERPPort": 59443,
+                    "IPv4": "47.121.119.125",
+                    "InsecureForTests": true,
+                    "Name": "1832-47.121.119.125",
+                    "RegionID": 1832
+                }
+            ],
+            "RegionCode": "other932",
+            "RegionID": 1832,
+            "RegionName": "Hangzhou"
+        },
+        "1612": {
+            "Nodes": [
+                {
+                    "DERPPort": 8530,
+                    "IPv4": "202.105.173.178",
+                    "InsecureForTests": true,
+                    "Name": "1612-202.105.173.178",
+                    "RegionID": 1612
+                }
+            ],
+            "RegionCode": "other712",
+            "RegionID": 1612,
+            "RegionName": "Shaoguan"
+        },
+        "1561": {
+            "Nodes": [
+                {
+                    "DERPPort": 12345,
+                    "IPv4": "222.79.105.247",
+                    "InsecureForTests": true,
+                    "Name": "1561-222.79.105.247",
+                    "RegionID": 1561
+                }
+            ],
+            "RegionCode": "other661",
+            "RegionID": 1561,
+            "RegionName": "Xiamen"
+        },
+        "1150": {
+            "Nodes": [
+                {
+                    "DERPPort": 6688,
+                    "IPv4": "120.27.210.195",
+                    "InsecureForTests": true,
+                    "Name": "1150-120.27.210.195",
+                    "RegionID": 1150
+                }
+            ],
+            "RegionCode": "other250",
+            "RegionID": 1150,
+            "RegionName": "Hangzhou"
+        },
+        "941": {
+            "Nodes": [
+                {
+                    "DERPPort": 50100,
+                    "IPv4": "222.187.254.43",
+                    "InsecureForTests": true,
+                    "Name": "941-222.187.254.43",
+                    "RegionID": 941
+                }
+            ],
+            "RegionCode": "other41",
+            "RegionID": 941,
+            "RegionName": "Suqian"
         }
     }
 }
