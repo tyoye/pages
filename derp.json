@@ -168,20 +168,6 @@
             "RegionID": 1482,
             "RegionName": "Beijing"
         },
-        "1824": {
-            "Nodes": [
-                {
-                    "DERPPort": 34567,
-                    "IPv4": "62.234.39.195",
-                    "InsecureForTests": true,
-                    "Name": "1824-62.234.39.195",
-                    "RegionID": 1824
-                }
-            ],
-            "RegionCode": "other924",
-            "RegionID": 1824,
-            "RegionName": "Beijing"
-        },
         "1294": {
             "Nodes": [
                 {
