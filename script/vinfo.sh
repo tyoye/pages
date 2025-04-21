@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# 获取命令行传递的参数（如果没有提供参数，则提示用户输入）
+provider=${1:-$(read -p "请输入当前机器的提供商（如 Vultr、Linode）： " provider && echo "$provider")}
+
 # 获取公网 IPv4 和 IPv6
 ipv4=$(curl -s https://api.ipify.org)
 ipv6=$(ip -6 addr show scope global | grep inet6 | awk '{print $2}' | cut -d/ -f1 | head -n 1)
@@ -18,12 +21,6 @@ timezone=$(echo "$geo" | jq -r .City.Location.TimeZone)
 country_name=$(echo "$geo" | jq -r .City.Country.Name)
 country_iso=$(echo "$geo" | jq -r .City.Country.IsoCode)
 region_name=$(echo "$geo" | jq -r .City.Subdivisions[0].Name)
-
-# SSH 端口，默认 22，可通过参数指定
-ssh_port=${1:-22}
-
-# 提示用户输入提供商
-read -p "请输入当前机器的提供商（如 Vultr、Linode）: " provider
 
 # name 格式：provider-region
 name="${provider}-${region_name}"
@@ -54,6 +51,6 @@ cat <<EOF
     "ipv4": "$ipv4",
     "ipv6": "$ipv6"
   },
-  "ssh_port": $ssh_port
+  "ssh_port": 22
 }
 EOF
